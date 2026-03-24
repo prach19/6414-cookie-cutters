@@ -27,6 +27,7 @@ async function init() {
 
     if (match) {
         document.getElementById('result').innerText = JSON.stringify(match, null, 2);
+        
     } else {
         document.getElementById('result').innerText = 'No data found for this domain.';
     }

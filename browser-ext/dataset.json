@@ -1,0 +1,3837 @@
+{
+  "163.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "1688.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "17ok.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "360.cn": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "51.la": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "6.cn": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "aaplimg.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "abc.net.au": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "about.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "aboutads.info": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "academia.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "academia.edu": {
+    "patterns": {
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "addthis.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "addtoany.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "adnxs.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "adobe.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "adsrvr.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "advertising.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "airbnb.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "akismet.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "alibaba.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "aliexpress.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "alipay.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "aliyun.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "allaboutcookies.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "amazon.ca": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "amazon.co.jp": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "amazon.co.uk": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "medium"
+  },
+  "amazon.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "amazon.de": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "amazon.fr": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "amazon.in": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "amazonaws.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "americanexpress.com": {
+    "patterns": {},
+    "clicks_to_reject": 1,
+    "severity": "none"
+  },
+  "ampproject.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "amzn.to": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "android.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "aol.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "apache.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "aparat.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "app-measurement.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "apple.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "appsflyer.com": {
+    "patterns": {
+      "DP4": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "arcgis.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "archive.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "arnebrachhold.de": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "avito.ru": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "azure.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "azureedge.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "babytree.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "baidu.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "bandcamp.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "bbc.co.uk": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "bbc.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "behance.net": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "beian.gov.cn": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "berkeley.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "bestbuy.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "bidswitch.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "bilibili.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "binance.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "bing.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "bit.ly": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "bitly.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "blogger.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "blogspot.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "bloomberg.com": {
+    "patterns": {
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "bongacams.com": {
+    "patterns": {
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "box.com": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "britannica.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "business.site": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "businessinsider.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "businesswire.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 6,
+    "severity": "high"
+  },
+  "buzzfeed.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "ca.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "cambridge.org": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "canva.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "medium"
+  },
+  "casalemedia.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "cbc.ca": {
+    "patterns": {
+      "DP5": true,
+      "DP6": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "cbsnews.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 7,
+    "severity": "high"
+  },
+  "cdc.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "change.org": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "chase.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "chaturbate.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "chess.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "cisco.com": {
+    "patterns": {
+      "DP5": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "cloudflare.com": {
+    "patterns": {
+      "DP3": true,
+      "DP5": true,
+      "DP6": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "cnbc.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "cnblogs.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "cnet.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "cnn.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "cnzz.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "coinmarketcap.com": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true,
+      "DP9": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "columbia.edu": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "constantcontact.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "cornell.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "coursera.org": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "cpanel.com": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "craigslist.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "crashlytics.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "creativecommons.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "criteo.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "csdn.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "dailymail.co.uk": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "dailymail.com": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "dailymotion.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "daum.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "debian.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "deepl.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "dell.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "demdex.net": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "detik.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "deviantart.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "digg.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "digicert.com": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP6": true,
+      "DP10": true,
+      "DP9": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "digikala.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "discord.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "disneyplus.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "disqus.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "doi.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "doubleclick.net": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "dribbble.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "dropbox.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "duckduckgo.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "ebay.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "ebay.de": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP7": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "economist.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "edgekey.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "eepurl.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "elsevier.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "engadget.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 11,
+    "severity": "high"
+  },
+  "epa.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "etsy.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "ettoday.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "europa.eu": {
+    "patterns": {
+      "DP7": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "eventbrite.com": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "evernote.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "example.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "facebook.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "fandom.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "fastly.net": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "fb.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "fbcdn.net": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "fc2.com": {
+    "patterns": {
+      "DP1": true,
+      "DP3": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "fda.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "fedex.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "feedburner.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "fiverr.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "medium"
+  },
+  "flickr.com": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true,
+      "DP9": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "flipkart.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "forbes.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "force.com": {
+    "patterns": {
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "forms.gle": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "foxnews.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "free.fr": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP14": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "freepik.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "ft.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "g.page": {
+    "patterns": {
+      "DP3": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "getpocket.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 6,
+    "severity": "medium"
+  },
+  "giphy.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "medium"
+  },
+  "github.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "github.io": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "globo.com": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "gmail.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "gnu.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "go.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "godaddy.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "gofundme.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "medium"
+  },
+  "gome.com.cn": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "goo.gl": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "goodreads.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "google-analytics.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "google.ca": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.cn": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "google.co.in": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.co.jp": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.co.uk": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.com": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.com.br": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.com.hk": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.com.mx": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.com.sg": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.com.tr": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.com.tw": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 6,
+    "severity": "high"
+  },
+  "google.de": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.es": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.fr": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.it": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "google.ru": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "googleadservices.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "googlesyndication.com": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "googletagmanager.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "googletagservices.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "googleusercontent.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "googlevideo.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "gosuslugi.ru": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "grammarly.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "gravatar.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "grid.id": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "hao123.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "haosou.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "harvard.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "hbr.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "healthline.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "hicloud.com": {
+    "patterns": {
+      "DP5": true,
+      "DP6": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "homedepot.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "huanqiu.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "huawei.com": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "hubspot.com": {
+    "patterns": {},
+    "clicks_to_reject": 1,
+    "severity": "none"
+  },
+  "huffingtonpost.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "huffpost.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "hugedomains.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "hulu.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "ibm.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "icloud.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "identrust.com": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "ietf.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "ikea.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "ilovepdf.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "imdb.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "imgur.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "indeed.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "independent.co.uk": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "indiatimes.com": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "instagram.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "instructure.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "intel.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "intuit.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "investing.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "investopedia.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 34,
+    "severity": "high"
+  },
+  "irs.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "iso.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "issuu.com": {
+    "patterns": {
+      "DP4": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "jd.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "jimdo.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "jquery.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "kickstarter.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "kompas.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "latimes.com": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "launchpad.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "lencr.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "line.me": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "linkedin.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "linktr.ee": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "list-manage.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "live.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "livejasmin.com": {
+    "patterns": {
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "medium"
+  },
+  "livejournal.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "loc.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "macromedia.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "mail.ru": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "mailchi.mp": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "mailchimp.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "marketwatch.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "marriott.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP15": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "mashable.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "mayoclinic.org": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "mediafire.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "medium.com": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "meetup.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "microsoft.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "medium"
+  },
+  "miit.gov.cn": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "mit.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "moatads.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "mozilla.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "mozilla.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "msedge.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "msftconnecttest.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "msftncsi.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "msn.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "myshopify.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "myspace.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "mysql.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "nasa.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "nationalgeographic.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "nature.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP7": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "naver.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "nbcnews.com": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "netflix.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP6": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "netflix.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "networkadvertising.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "nflximg.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "nflxso.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "nginx.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP14": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "nginx.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "nih.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "noaa.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "npr.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "npr.org": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "ntp.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "nypost.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "nytimes.com": {
+    "patterns": {
+      "DP5": true,
+      "DP6": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "office.com": {
+    "patterns": {
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "office365.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "ok.ru": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP7": true,
+      "DP10": true,
+      "DP12": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "okezone.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "okta.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true,
+      "DP9": true
+    },
+    "clicks_to_reject": 9,
+    "severity": "high"
+  },
+  "onlinesbi.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "opendns.com": {
+    "patterns": {
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "opera.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "oracle.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "oup.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "outbrain.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "outlook.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "padlet.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "panda.tv": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "patreon.com": {
+    "patterns": {
+      "DP4": true,
+      "DP6": true,
+      "DP8": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "paypal.com": {
+    "patterns": {
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "pbs.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "pexels.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "php.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "pikiran-rakyat.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "pinimg.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "pinterest.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "pixabay.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 6,
+    "severity": "high"
+  },
+  "pixnet.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "pki.goog": {
+    "patterns": {
+      "DP1": true,
+      "DP2": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "plesk.com": {
+    "patterns": {},
+    "clicks_to_reject": 1,
+    "severity": "none"
+  },
+  "pornhub.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "primevideo.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "princeton.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "prnewswire.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "psu.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "pubmatic.com": {
+    "patterns": {
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "qq.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "quora.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "rakuten.co.jp": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "reddit.com": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "redhat.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "researchgate.net": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "reuters.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "rlcdn.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "roblox.com": {
+    "patterns": {
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "rt.com": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "rubiconproject.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "sagepub.com": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true,
+      "DP9": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "samsung.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "savefrom.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "sciencedaily.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP7": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "sciencedirect.com": {
+    "patterns": {
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "sciencemag.org": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 6,
+    "severity": "medium"
+  },
+  "scorecardresearch.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "scribd.com": {
+    "patterns": {
+      "DP1": true,
+      "DP3": true,
+      "DP4": true,
+      "DP6": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "sharepoint.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "shopify.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "shutterstock.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "sina.com.cn": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "sitemaps.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "skype.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "slack.com": {
+    "patterns": {
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "slideshare.net": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "smallpdf.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "snapchat.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "so.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "sogou.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "sohu.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "soundcloud.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "sourceforge.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "speedtest.net": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "spotify.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "springer.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 9,
+    "severity": "high"
+  },
+  "squarespace.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "stackexchange.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "stackoverflow.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "stanford.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "statcounter.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "state.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "statista.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "steampowered.com": {
+    "patterns": {
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "stumbleupon.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "t.co": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "t.me": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "taboola.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "tandfonline.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "taobao.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "target.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "teamviewer.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "techcrunch.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "ted.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "telegram.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "telegraph.co.uk": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "theatlantic.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "theguardian.com": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "themeforest.net": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 6,
+    "severity": "medium"
+  },
+  "theverge.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "tianya.cn": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "tiktok.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "time.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "tinyurl.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP7": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "tistory.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "tmall.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "tradingview.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "trello.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "tribunnews.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "tripadvisor.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "trustpilot.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "tumblr.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "twitch.tv": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "twitter.com": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "typeform.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "typepad.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "udemy.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 7,
+    "severity": "high"
+  },
+  "umich.edu": {
+    "patterns": {},
+    "clicks_to_reject": 1,
+    "severity": "none"
+  },
+  "un.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "unesco.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "unsplash.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "uol.com.br": {
+    "patterns": {
+      "DP1": true,
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "upenn.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "ups.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "usda.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "usnews.com": {
+    "patterns": {
+      "DP1": true,
+      "DP3": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "usps.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "varzesh3.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "vice.com": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "vimeo.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "vk.com": {
+    "patterns": {
+      "DP1": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "high"
+  },
+  "vox.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "w3.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "w3schools.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "wa.me": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "walmart.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "washington.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "washingtonpost.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "high"
+  },
+  "weather.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "webex.com": {
+    "patterns": {
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "webmd.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "webs.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "weebly.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "weibo.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "wellsfargo.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "wetransfer.com": {
+    "patterns": {
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "whatsapp.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "whatsapp.net": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "whitehouse.gov": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "who.int": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "wikihow.com": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 4,
+    "severity": "medium"
+  },
+  "wikimedia.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "wikipedia.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "wiley.com": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP5": true,
+      "DP6": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "high"
+  },
+  "windows.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "windows.net": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "windowsupdate.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "wired.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP7": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "wix.com": {
+    "patterns": {
+      "DP2": true,
+      "DP5": true,
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "wixsite.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "wordpress.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "wordpress.org": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "worldbank.org": {
+    "patterns": {
+      "DP6": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "wp.com": {
+    "patterns": {
+      "DP2": true,
+      "DP4": true,
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "wsj.com": {
+    "patterns": {
+      "DP3": true,
+      "DP4": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "high"
+  },
+  "www.gov.uk": {
+    "patterns": {},
+    "clicks_to_reject": 1,
+    "severity": "none"
+  },
+  "xhamster.com": {
+    "patterns": {
+      "DP1": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "xinhuanet.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "xvideos.com": {
+    "patterns": {
+      "DP10": true
+    },
+    "clicks_to_reject": 0,
+    "severity": "medium"
+  },
+  "yahoo.co.jp": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "yahoo.com": {
+    "patterns": {
+      "DP2": true,
+      "DP3": true,
+      "DP5": true,
+      "DP10": true,
+      "DP12": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "yale.edu": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "yandex.ru": {
+    "patterns": {
+      "DP5": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 2,
+    "severity": "medium"
+  },
+  "yelp.com": {
+    "patterns": {
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "youku.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "youronlinechoices.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "youtu.be": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP10": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "youtube-nocookie.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "youtube.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true,
+      "DP11": true
+    },
+    "clicks_to_reject": 5,
+    "severity": "high"
+  },
+  "yy.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "zdnet.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "zendesk.com": {
+    "patterns": {
+      "DP4": true,
+      "DP5": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  },
+  "zhanqi.tv": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "zhihu.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "zillow.com": {
+    "patterns": {
+      "no cookie dialog": true
+    },
+    "clicks_to_reject": null,
+    "severity": "medium"
+  },
+  "zoho.com": {
+    "patterns": {
+      "DP5": true,
+      "DP7": true,
+      "DP10": true
+    },
+    "clicks_to_reject": 3,
+    "severity": "high"
+  },
+  "zoom.us": {
+    "patterns": {
+      "DP5": true,
+      "DP6": true
+    },
+    "clicks_to_reject": 1,
+    "severity": "medium"
+  }
+}

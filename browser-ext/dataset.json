@@ -1245,6 +1245,7 @@
   "ft.com": {
     "patterns": {
       "DP2": true,
+      "DP3": true,
       "DP5": true,
       "DP10": true
     },

@@ -1,12 +1,31 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="popup.css">
-</head>
-<body>
-    <h2>Dark Pattern Detector</h2>
-    <pre id="result">Loading...</pre>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div id="header" class="header">
+      <h2>Cookie Dark Pattern Detector</h2>
+      <p id="domain"></p>
+    </div>
+    <div id="content"></div>
+    <div class="summary">
+      <span id="count" class="severity-badge"></span>
+      <span class="severity-badge">Clicks to reject cookies: <strong id="clicks"></strong></span>
+      
+    </div>
+    <div class="patterns" id="patterns">
+        <span id="severity"></span>
+    </div>
+    <div class="footer">
+        
+      <p>
+        This is based on data collected in 2022, please exercise caution when
+        accepting cookies.
+      </p>
+    </div>
+
     <script src="popup.js"></script>
   </body>
 </html>
